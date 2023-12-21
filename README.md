@@ -1,5 +1,5 @@
 # Single_Page_WebApplication
- Some ScreenShoots Checkout Belowe 
+ Some ScreenShoots Check it out Below.
 1. Login Page
 ![Screenshot 2023-12-14 164128](https://github.com/PavankumarMelkeri/Single_Page_WebApplication/assets/143866322/b348bba4-afff-4d2e-ab6a-dda09f93ee00)
 
